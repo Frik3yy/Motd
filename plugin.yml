@@ -1,0 +1,4 @@
+name: plugins-oldhc-motd
+author: FrikDEV
+version: 1.0
+main: plugins.oldhc.motd.Main
